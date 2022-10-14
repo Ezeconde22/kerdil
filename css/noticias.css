@@ -1,0 +1,36 @@
+/*todo*/
+body{
+    font-family: 'Times New Roman', Times, serif;
+    overflow-x: hidden ;
+}
+#menu {
+    background-color: gray;
+}
+#menu a{
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+#menu a:hover{
+    background-color: black;
+    color: #fff;
+    border-radius: 30px;
+}
+#menu button{
+    font-size: 18px;
+    color: #fff;
+}
+/*pie de pagina*/
+footer{
+    background-color: rgb(202, 202, 202);
+    min-height: 100px;
+}
+footer p{
+    color: black;
+    text-align: center;
+}
+#iconos i{
+    font-size: 26px;
+    padding: 0 8px;
+    color: black;
+}
